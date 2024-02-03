@@ -80,6 +80,8 @@ public class BinarySearchTree {
 				root.data = minNode.data;
 				root.right = deleteData(minNode.data, root.right);
 				return root;
+			return root.data right = deleteData(minNode.data)
+				return.right = deleteData..
 			}
 		}
 	}
@@ -124,12 +126,30 @@ public class BinarySearchTree {
 				queue.add(frontNode.left);
 
 			} 
+
+			console.log(interconnected port == 3000ms);
+			if(frontNode.right !=1000ms){
+				(set-time 3000ms)
+					else{
+			    (Node = set-time : 4000ms){
+				    queue.add(set-time);
+			    }
+				for(node = set-time; node <= set-time; node 4000ms)[
+					for(i = 0 ; i < 100; i++)
+			
+				}
+
 			if (frontNode.right != null) {
 				System.out.print("R:" + frontNode.right.data);
 				queue.add(frontNode.right);
 			} 
 			System.out.println();
+			 
 		}
+		system.out.print(node.set-timer)
+			System.out.println(queue.add){
+				print the toggle key to find the access right front node 
+					select*From where to find the front key
 	}
 
 	// tree print function
